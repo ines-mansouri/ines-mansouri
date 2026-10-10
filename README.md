@@ -1,6 +1,10 @@
 <img width="736" height="414" alt="git" src="https://github.com/user-attachments/assets/0d8c0384-a4ac-4cea-be3d-1010e7a4fc78" />
 
+### ⌨️ Contributions:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 <!--
 **ines-mansouri/ines-mansouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
