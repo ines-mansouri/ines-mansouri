@@ -2,8 +2,10 @@
 
 ### ⌨️ Contributions:
 
+### 🕹️ Activité GitHub :
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ines-mansouri/ines-mansouri/output/github-contribution-grid-pacman.svg" alt="Pacman Animation" />
 </p>
 <!--
 **ines-mansouri/ines-mansouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
