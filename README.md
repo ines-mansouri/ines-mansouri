@@ -7,5 +7,5 @@
   </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ines-mansouri&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff79c6&icon_color=ff79c6&rank_icon=github" alt="Ines GitHub Stats" />
+
   
